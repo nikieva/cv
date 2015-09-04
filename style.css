@@ -1,0 +1,31 @@
+﻿	body {
+	background-color: #86acc9;
+	background-image:url(http://bgfons.com/upload/light_texture2192.jpg);
+	color:#001623;
+	margin: 50px 300px 200px 100px;
+	}
+	div{
+	width: 500px;
+	background-color:#001623;
+	color: #027d82;
+}
+	div#wrapper{
+	width: 800px;
+	background-color:rgba(62,99,121,0.3);
+	color:#001623;
+	padding-bottom:  25px;
+	padding-top: 25px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-left: 150px;
+}
+  a{
+    color:#027d82;
+  }
+
+	
+	img{
+	float: left;
+	margin: 10px;
+	}
